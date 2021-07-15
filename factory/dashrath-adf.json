@@ -1,0 +1,9 @@
+{
+	"name": "dashrath-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d33e88b-543e-4a6f-9fd0-8acbac5dcd97",
+		"tenantId": "bc5c7327-b12e-48db-a856-175591ecd2f0"
+	}
+}
